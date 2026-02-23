@@ -1,0 +1,7 @@
+{
+  "name": "Remix: E-clinic: Barangay Poblacion Clinic Management System",
+  "description": "A comprehensive clinic management system with patient record analytics for Barangay Poblacion, Jamindan, Capiz, featuring digital health records, inventory tracking, and data-driven health insights.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
